@@ -1,0 +1,7 @@
+{"fid": 1, "family": "single_choice"}
+{"fid": 2, "family": "matrix"}
+{"fid": 3, "family": "open_ended"}
+{"fid": 4, "family": "demographic"}
+{"fid": 5, "family": "datetime"}
+{"fid": 6, "family": "multiple_choice"}
+{"fid": 7, "family": "presentation"}
